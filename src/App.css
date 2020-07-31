@@ -4,6 +4,10 @@ header {
 	-webkit-background-size: cover !important;
 }
 
+.home-subtitle{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 .portfolio-modal {
   padding: 25px;
   height:100%;
@@ -25,9 +29,9 @@ header {
   justify-content: center;
 }
 
-
-
-
+.responsive-headline{
+  font-family: Arial, Helvetica, sans-serif;
+}
 
 
 

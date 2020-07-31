@@ -1,13 +1,13 @@
 let resumeData = {
-  name: "Evan Feenstra",
-  role: "Frontend Web Developer",
-  linkedinId:"evanfeenstra",
+  name: "Victoria Teng",
+  role: "Woohoo",
+  linkedinId:"victorialijingteng",
   skypeid: "Your skypeid",
-  roleDescription: "asdf  blah blahI like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or play music in my free time.",
+  roleDescription: "Welcome to my portfolio. Enter at your own peril!",
   socialLinks:[
       {
         name:"linkedin",
-        url:"https://www.linkedin.com/in/evanfeenstra",
+        url:"https://www.linkedin.com/in/victorialijingteng",
         className:"fa fa-linkedin"
       },
       {
