@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": ".",
+    "public": "toriteng",
     "ignore": [
       "firebase.json",
       "**/.*",
