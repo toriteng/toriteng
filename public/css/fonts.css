@@ -12,11 +12,46 @@
 
 /*
  * Raleway
-================================================================================ */   
+================================================================================ */
 @font-face {
-    font-family: 'raleway';
-    src: url('fonts/rockSalt/rocksalt-regular-webfont.woff') format('woff'),
-         url('/fonts/rockSalt/rockSalt.ttf') format('truetype');
+    font-family: 'raleway-regular';
+    src: url('fonts/raleway/raleway-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'raleway-medium';
+    src: url('fonts/raleway/raleway-medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'raleway-light';
+    src: url('fonts/raleway/raleway-light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'raleway-light-italic';
+    src: url('fonts/raleway/raleway-light-italic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'raleway-semibold';
+    src: url('fonts/raleway/raleway-semibold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'raleway-bold';
+    src: url('fonts/raleway/raleway-bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'raleway-extrabold';
+    src: url('fonts/raleway/raleway-extrabold.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }

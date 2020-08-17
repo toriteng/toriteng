@@ -1,9 +1,9 @@
 let resumeData = {
-  name: "Victoria Teng",
+  name: "Tori Teng",
   role: "Woohoo",
   linkedinId:"victorialijingteng",
   skypeid: "Your skypeid",
-  roleDescription: "Welcome to my portfolio. Enter at your own peril!",
+  roleDescription: "Product Management & Design Leadership",
   socialLinks:[
       {
         name:"linkedin",
@@ -12,13 +12,8 @@ let resumeData = {
       },
       {
         name:"github",
-        url:"http://github.com/",
+        url:"http://github.com/toriteng",
         className:"fa fa-github"
-      },
-      {
-        name:"skype",
-        url:"http://skype.com",
-        className:"fa fa-skype"
       }
     ],
   aboutme:"I have finished my B.S. in Human Centered Design and Engineering, and am currently seeking a Web Development position.",

@@ -29,11 +29,11 @@
    ------------------------------------------------------------------ */
    header .banner { padding-bottom: 12px; }
    header .banner-text h1 {
-      font: 78px/1.1em 'opensans-bold', sans-serif;
+      font: 78px/1.1em 'rockSalt';
       letter-spacing: -1px;      
    }
    header .banner-text h3 {
-      font: 17px/1.9em 'librebaskerville-regular', serif;
+      font: 17px/1.9em 'raleway-bold', serif;
       width: 80%;
    }
    header .banner-text hr {
@@ -42,7 +42,7 @@
    }
    /* nav-wrap */
    #nav-wrap {
-      font: 11px 'opensans-bold', sans-serif;
+      font: 11px 'raleway-light';
       letter-spacing: 1.5px;
    }
 
@@ -193,9 +193,9 @@
       padding-bottom: 12px;
       padding-top: 6px;
    }
-   header .banner-text h1 { font: 68px/1.1em 'opensans-bold', sans-serif; }
+   header .banner-text h1 { font: 68px/1.1em 'rockSalt'; }
    header .banner-text h3 {
-      font: 16px/1.9em 'librebaskerville-regular', serif;
+      font: 16px/1.9em 'raleway-bold', serif;
       width: 85%;
    }
    header .banner-text hr {
@@ -353,11 +353,11 @@
    -------------------------------------------------------------------- */
    header .banner { padding-top: 24px; }
    header .banner-text h1 {
-      font: 40px/1.1em 'opensans-bold', sans-serif;      
+      font: 40px/1.1em 'rockSalt';      
       margin: 0 auto 24px auto;
    }
    header .banner-text h3 {
-      font: 14px/1.9em 'librebaskerville-regular', sans-serif;
+      font: 14px/1.9em 'raleway-bold', sans-serif;
       width: 90%;
    }
   
